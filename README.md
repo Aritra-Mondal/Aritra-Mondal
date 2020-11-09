@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-| [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/gihub.png" alt="github logo" width="34">](https://github.com/Aritra-Mondal) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/twitter.svg" alt="twitter logo" width="34">](https://twitter.com/0538Aritra) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/aritra-mondal-b083121a5/) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/gmail.jpeg" alt="gmail logo" width="24">](aritra.mondal.0538@gmail.com)
-|---|---|---|---|
+| [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/gihub.png" alt="github logo" width="34">](https://github.com/Aritra-Mondal) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/twitter.svg" alt="twitter logo" width="34">](https://twitter.com/0538Aritra) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/aritra-mondal-b083121a5/) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/gmail.jpeg" alt="gmail logo" width="24">](mailto:aritra.mondal.0538@gmail.com) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/gmail.jpeg" alt="gmail logo" width="24">](mailto:aritra.mondal@gcettb.ac.in)
+|---|---|---|---|---|
 
-![Arkadip's Github Stats](https://github-readme-stats.vercel.app/api?username=darkmatter18&show_icons=true)
+![Aritra's Github Stats](https://github-readme-stats.vercel.app/api?username=Aritra-Mondal&show_icons=true)
 
 
 
